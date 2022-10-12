@@ -1,0 +1,43 @@
+E:\Soluciones\AppAsigPremios\bin\Debug\net5.0-windows\UI_Concurso.exe
+E:\Soluciones\AppAsigPremios\bin\Debug\net5.0-windows\UI_Concurso.deps.json
+E:\Soluciones\AppAsigPremios\bin\Debug\net5.0-windows\UI_Concurso.runtimeconfig.json
+E:\Soluciones\AppAsigPremios\bin\Debug\net5.0-windows\UI_Concurso.runtimeconfig.dev.json
+E:\Soluciones\AppAsigPremios\bin\Debug\net5.0-windows\UI_Concurso.dll
+E:\Soluciones\AppAsigPremios\bin\Debug\net5.0-windows\ref\UI_Concurso.dll
+E:\Soluciones\AppAsigPremios\bin\Debug\net5.0-windows\UI_Concurso.pdb
+E:\Soluciones\AppAsigPremios\bin\Debug\net5.0-windows\BLL_Concurso.dll
+E:\Soluciones\AppAsigPremios\bin\Debug\net5.0-windows\BLL_Concurso.pdb
+E:\Soluciones\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.csproj.AssemblyReference.cache
+E:\Soluciones\AppAsigPremios\obj\Debug\net5.0-windows\AppAsigPremios.PagPrincipal.resources
+E:\Soluciones\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.csproj.GenerateResource.cache
+E:\Soluciones\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.GeneratedMSBuildEditorConfig.editorconfig
+E:\Soluciones\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.AssemblyInfoInputs.cache
+E:\Soluciones\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.AssemblyInfo.cs
+E:\Soluciones\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.csproj.CoreCompileInputs.cache
+E:\Soluciones\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.csproj.CopyComplete
+E:\Soluciones\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.dll
+E:\Soluciones\AppAsigPremios\obj\Debug\net5.0-windows\ref\UI_Concurso.dll
+E:\Soluciones\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.pdb
+E:\Soluciones\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\bin\Debug\net5.0-windows\UI_Concurso.exe
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\bin\Debug\net5.0-windows\UI_Concurso.deps.json
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\bin\Debug\net5.0-windows\UI_Concurso.runtimeconfig.json
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\bin\Debug\net5.0-windows\UI_Concurso.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\bin\Debug\net5.0-windows\UI_Concurso.dll
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\bin\Debug\net5.0-windows\UI_Concurso.pdb
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\bin\Debug\net5.0-windows\BLL_Concurso.dll
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\bin\Debug\net5.0-windows\BLL_Concurso.pdb
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\AppAsigPremios.PagPrincipal.resources
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.dll
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\refint\UI_Concurso.dll
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.pdb
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\UI_Concurso.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\AppAsigPremios\obj\Debug\net5.0-windows\ref\UI_Concurso.dll

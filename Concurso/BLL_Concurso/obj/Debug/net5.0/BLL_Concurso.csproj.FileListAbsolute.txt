@@ -1,0 +1,35 @@
+E:\Soluciones\Entidades\bin\Debug\net5.0\BLL_Concurso.deps.json
+E:\Soluciones\Entidades\bin\Debug\net5.0\BLL_Concurso.dll
+E:\Soluciones\Entidades\bin\Debug\net5.0\ref\BLL_Concurso.dll
+E:\Soluciones\Entidades\bin\Debug\net5.0\BLL_Concurso.pdb
+E:\Soluciones\Entidades\obj\Debug\net5.0\BLL_Concurso.GeneratedMSBuildEditorConfig.editorconfig
+E:\Soluciones\Entidades\obj\Debug\net5.0\BLL_Concurso.AssemblyInfoInputs.cache
+E:\Soluciones\Entidades\obj\Debug\net5.0\BLL_Concurso.AssemblyInfo.cs
+E:\Soluciones\Entidades\obj\Debug\net5.0\BLL_Concurso.csproj.CoreCompileInputs.cache
+E:\Soluciones\Entidades\obj\Debug\net5.0\BLL_Concurso.dll
+E:\Soluciones\Entidades\obj\Debug\net5.0\ref\BLL_Concurso.dll
+E:\Soluciones\Entidades\obj\Debug\net5.0\BLL_Concurso.pdb
+E:\Soluciones\BLL_Concurso\bin\Debug\net5.0\BLL_Concurso.deps.json
+E:\Soluciones\BLL_Concurso\bin\Debug\net5.0\BLL_Concurso.dll
+E:\Soluciones\BLL_Concurso\bin\Debug\net5.0\ref\BLL_Concurso.dll
+E:\Soluciones\BLL_Concurso\bin\Debug\net5.0\BLL_Concurso.pdb
+E:\Soluciones\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.GeneratedMSBuildEditorConfig.editorconfig
+E:\Soluciones\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.AssemblyInfoInputs.cache
+E:\Soluciones\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.AssemblyInfo.cs
+E:\Soluciones\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.csproj.CoreCompileInputs.cache
+E:\Soluciones\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.dll
+E:\Soluciones\BLL_Concurso\obj\Debug\net5.0\ref\BLL_Concurso.dll
+E:\Soluciones\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.pdb
+E:\Soluciones\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\BLL_Concurso\bin\Debug\net5.0\BLL_Concurso.deps.json
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\BLL_Concurso\bin\Debug\net5.0\BLL_Concurso.dll
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\BLL_Concurso\bin\Debug\net5.0\BLL_Concurso.pdb
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.dll
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\BLL_Concurso\obj\Debug\net5.0\refint\BLL_Concurso.dll
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\BLL_Concurso\obj\Debug\net5.0\BLL_Concurso.pdb
+C:\Users\Administrator\Desktop\Tecnicas de Programacion\ExamenFinal\Concurso\BLL_Concurso\obj\Debug\net5.0\ref\BLL_Concurso.dll
